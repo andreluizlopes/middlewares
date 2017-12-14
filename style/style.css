@@ -1,0 +1,14 @@
+.user-list {
+  display: flex;
+  justify-content: space-around;
+  -webkit-flex-wrap: wrap;
+  -moz-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  -o-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.card {
+  widows: 30%;
+  min-width: 300px;
+}
